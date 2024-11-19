@@ -1,0 +1,10 @@
+{
+  "dataApiHostName": "api-center-anevejs.data.australiaeast.azure-apicenter.ms/workspaces/default",
+  "title": "API portal",
+  "authentication": {
+      "clientId": "da4e48e6-671e-4020-b5a8-54fd41888ee7",
+      "tenantId": "13e8aeb0-c7c4-468e-80f5-16aeb5516582",
+      "scopes": ["https://azure-apicenter.net/user_impersonation"],
+      "authority": "https://login.microsoftonline.com/"
+  }
+}
