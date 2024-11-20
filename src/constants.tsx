@@ -42,4 +42,14 @@ export const ApiFilters = {
             { value: "retired", label: "Retired" },
         ],
     },
+        integrationPatternStyle: {
+        label: "integrationpatternstyle",
+        options: [
+            { value: "Pub-Sub", label: "Pub-Sub" },
+            { value: "Request-Response", label: "Request-Response" },
+            { value: "Proxy", label: "Proxy" },
+            { value: "Event Streaming", label: "Event Streaming" },
+            { value: "File Transfer", label: "File Transfer" },
+        ],
+    },
 };
