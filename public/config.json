@@ -1,9 +1,9 @@
 {
-  "dataApiHostName": "api-center-anevejs.data.australiaeast.azure-apicenter.ms/workspaces/default",
-  "title": "API portal ARIAN",
+  "dataApiHostName": "api-center-riotinto.data.australiaeast.azure-apicenter.ms/workspaces/default",
+  "title": "Rio Tinto: API Center Portal",
   "authentication": {
-      "clientId": "da4e48e6-671e-4020-b5a8-54fd41888ee7",
-      "tenantId": "13e8aeb0-c7c4-468e-80f5-16aeb5516582",
+      "clientId": "140b454c-1f6d-4192-8c27-2017cdcce965",
+      "tenantId": "4341df80-fbe6-41bf-89b0-e6e2379c9c23",
       "scopes": ["https://azure-apicenter.net/user_impersonation"],
       "authority": "https://login.microsoftonline.com/"
   },
