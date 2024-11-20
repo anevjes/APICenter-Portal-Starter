@@ -43,7 +43,7 @@ export const ApiFilters = {
         ],
     },
         integrationPatternStyle: {
-        label: "integrationpatternstyle",
+        label: "Integration pattern style",
         options: [
             { value: "Pub-Sub", label: "Pub-Sub" },
             { value: "Request-Response", label: "Request-Response" },
