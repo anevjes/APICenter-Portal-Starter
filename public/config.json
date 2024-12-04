@@ -1,6 +1,6 @@
 {
   "dataApiHostName": "api-center-riotinto.data.australiaeast.azure-apicenter.ms/workspaces/default",
-  "title": "Rio Tinto: API Center Portal",
+  "title": "Rio Tinto: API Center Portal POC",
   "authentication": {
       "clientId": "140b454c-1f6d-4192-8c27-2017cdcce965",
       "tenantId": "4341df80-fbe6-41bf-89b0-e6e2379c9c23",
